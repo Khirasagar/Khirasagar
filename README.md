@@ -2,7 +2,7 @@
   <img src="https://see.fontimg.com/api/renderfont4/w13o6/eyJyIjoiZnMiLCJoIjoxNTMsInciOjEyNTAsImZzIjoxMjIsImZnYyI6IiMwMDAwMDAiLCJiZ2MiOiIjRkZGRkZGIiwidCI6MX0/SGV5ICEgSSBhbSBLaGlyYXNhZ2Fy/brotherside-signature.png"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Get to Know Me ! : 😀
 
 - :credit_card: My full name is **Khirasagar Maharana** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently a professional career aspirant.
@@ -13,8 +13,7 @@
 - :monocle_face: Fascinated to code 💻 , memes 😆 , webseries 🎥 and yes sleeping 😪 
 - :sunglasses: My quote is **_"No sin is greater than cowardice"_**
 
-<div align="center"> <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"></div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 
 
 ## 🚀 Languages and Tools:
 
