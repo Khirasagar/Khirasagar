@@ -92,14 +92,14 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="khirasagar.maharana8100@gmail.com" >
-    <img align="center" alt="Khirasagar Maharana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/">
-    <img align="center" alt="Khirasagar Maharana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
+<a href="mailto:khirasagar.maharana8100@gmail.com">
+  <img align="center" alt="Khirasagar Maharana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/">
+  <img align="center" alt="Khirasagar Maharana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+
  
   
 <p>
