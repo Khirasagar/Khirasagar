@@ -92,17 +92,15 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="sshourya17@gmail.com" >
+  <a href="khirasagar.maharana8100@gmail.com" >
     <img align="center" alt="Khirasagar Maharana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/shourya-sharma-65b5351a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/">
     <img align="center" alt="Khirasagar Maharana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Khirasagar Maharana" target="_blank">
-    <img align="center" alt="Khirasagar Maharana | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+ 
   
 <p>
 
