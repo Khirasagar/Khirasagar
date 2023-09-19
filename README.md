@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Get to Know Me ! 😀
 
-- :credit_card: My full name is **Khirasagar Maharana** <img src="https://github.com/Khirasagar/Khirasagar/blob/main/banner_animation.gif" width="400" height="300" align="right" autoplay/>
+- :credit_card: My full name is **Khirasagar Maharana** <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="400" height="355" align="right" autoplay/>
 - :school: I'm currently a professional career aspirant.
 - 🖋️: I'm a Bachelor of Tech. UnderGrad from **GIET University, Gunupur**
 - :books: My major is **Computer Science and Engineering**
