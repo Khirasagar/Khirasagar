@@ -8,9 +8,7 @@
 
 ## 👋 Get to Know Me! 😀
 
-- 💳 My full name is **Khirasagar Maharana** 
-  ![Khirasagar Maharana]<img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="400" height="355" align="right" autoplay/>
-
+- 💳 My full name is **Khirasagar Maharana** <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="400" height="355" align="right" autoplay/>
 - 🏫 I'm currently a professional career aspirant.
 - 🖋️ I'm a Bachelor of Technology Undergrad from **GIET University, Gunupur**.
 - 📚 My major is **Computer Science and Engineering**.
