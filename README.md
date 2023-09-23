@@ -91,9 +91,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&hide=TeX&layout=compact)
 
-
-<p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Khirasagar"></p>
-## <img src='' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+ <img src='https://www.iconsdb.com/icons/preview/blue/info-xxl.png' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
 <a href="mailto:khirasagar.maharana8100@gmail.com">
