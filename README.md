@@ -85,11 +85,13 @@
 
 </p>
 <br>
+<table>
 <p align="right"><img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khirasagar&amp;" alt="Khirasagar"/></p>
 
 <p align="left"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=Khirasagar&amp;show_icons=true&amp;locale=en" alt="Khirasagar"/></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&hide=TeX&layout=compact)
+</table>
 
  <img src='https://www.iconsdb.com/icons/preview/blue/info-xxl.png' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
