@@ -14,7 +14,7 @@
 - 📚 My major is **Computer Science and Engineering**.
 - 🌍 I'm currently based in **Odisha, India**.
 - 😅 I'm an intermediate in coding :penguin:.
-- 🧐 I'm fascinated by coding 💻, memes 😆, web series 🎥, and yes, sleeping 😪.
+- 🧐 I'm fascinated by coding 💻, memes 😆 webseries web series 🎥.
 - 😎 My favorite quote is **_"No sin is greater than cowardice"_**
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 
