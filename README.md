@@ -13,7 +13,6 @@
 - 🖋️ I'm a Bachelor of Technology Undergrad from **GIET University, Gunupur**.
 - 📚 My major is **Computer Science and Engineering**.
 - 🌍 I'm currently based in **Odisha, India**.
-- 😅 I'm an intermediate in coding :penguin:.
 - 🧐 I'm fascinated by coding 💻, memes 😆 webseries web series 🎥.
 - 😎 My favorite quote is **_"No sin is greater than cowardice"_**
 
