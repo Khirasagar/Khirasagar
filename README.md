@@ -109,7 +109,8 @@
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&hide=TeX&layout=compact)
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&langs_count=8" alt="Khirasagar"/></p>
+
 
 <br>
 
