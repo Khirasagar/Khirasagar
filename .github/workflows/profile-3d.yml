@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contributer
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -7,11 +7,11 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
-    name: generate-github-profile-3d-contributer
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
