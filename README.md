@@ -125,7 +125,7 @@
     <img align="center" alt="Khirasagar Maharana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 </p>
-
+<p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Khirasagar"></p>
 <div align="center">
   :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Khirasagar Maharana
