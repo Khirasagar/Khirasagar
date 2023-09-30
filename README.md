@@ -31,7 +31,7 @@
 <a href="khirasagar.maharana8100@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Khirasagar" height="40" width="50" /></a>
 </p>
 
-## 🚀 Languages and Tools:
+## 🚀 Tech Stacks:
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> 
