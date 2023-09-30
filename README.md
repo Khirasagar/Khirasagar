@@ -9,6 +9,7 @@
 ## 👋 Get to Know Me! 😀
 
 - 💳 My full name is **Khirasagar Maharana** <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
+- 🎯 I'm a versatile **Fullstack Developer** adept at both **frontend** and **backend** work, ensuring seamless and feature-rich web application development.
 - 🏫 I'm currently a professional career aspirant.
 - 🖋️ I'm a Bachelor of Technology Undergrad from **GIET University, Gunupur**.
 - 📚 My major is **Computer Science and Engineering**.
@@ -34,28 +35,34 @@
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="58px" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-    </a> 
-    <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="58px" />
     </a>
     <a href="https://www.python.org" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python"  height="58px" />
+    </a>
+     <a href="" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C"  height="58px" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="HTML"  height="58px" />
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS"  height="58px"/>
+    </a> 
+    <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> 
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="JavaScript"  height="58px"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank"> 
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+      <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB"  height="58px" />
+    </a>
+   <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"  height="58px"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React"  height="58px"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="45px"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
     </a>
 </p>
 
