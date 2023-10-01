@@ -80,7 +80,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
 
 #### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui,jquery&perline=5)](https://skillicons.dev)
 
 ### Data Science
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
