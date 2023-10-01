@@ -86,7 +86,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
 
 ### Version controls
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,&perline=4)](https://skillicons.dev)
 
 
 
