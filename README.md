@@ -68,6 +68,47 @@
 
 <br>
 
+
+## Development Stack
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,php&perline=4)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,&perline=4)](https://skillicons.dev)
+
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
+
+#### Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui&perline=4)](https://skillicons.dev)
+
+### Data Science
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
+
+### Version controls
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,&perline=4)](https://skillicons.dev)
+
+
+
+<br>
+
+
+## 📈 My GitHub Stats
+
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Khirasagar&show_icons=true&theme=gotham" alt="Khirasagar" /> </p>
+
+<p ><img alt="Rahul Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p> -->
+
+  <br/>
+    <a href="https://github.com/Khirasagar/github-readme-stats"><img alt="Khirasagar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khirasagar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Khirasagar/github-readme-stats"><img alt="Khirasagar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
 <table>
   <tr>
     <td>
@@ -88,7 +129,6 @@
 
 <br>
 
-<img src='https://www.iconsdb.com/icons/preview/blue/info-xxl.png' width="50px" height="50px"> Connect with Me
 
 <p align="center">
   <a href="mailto:khirasagar.maharana8100@gmail.com">
@@ -100,11 +140,21 @@
   </a> &nbsp;&nbsp;
 </p>
 <p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Khirasagar"></p>
+
+## 🙋‍♂️ Connect with Me
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/khirasagar-maharana-b4485a209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:khirasagar.maharana8100@gmail.com"><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
+<a href = "https://www.facebook.com//"><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=48px/></a>
+<a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/color/344/twitter--v1.png" height=48px/></a>
+</p>
 <div align="center">
   :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Khirasagar Maharana
 </div>
-
 ---
 
 Credits: [Khirasagar Maharana](https://github.com/Khirasagar)
