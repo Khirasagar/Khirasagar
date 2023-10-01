@@ -31,7 +31,7 @@
 <a href="khirasagar.maharana8100@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Khirasagar" height="40" width="50" /></a>
 </p>
 
-## 🚀 Tech Stacks:
+## 🚀 In-Use Tech Stacks:
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> 
@@ -84,6 +84,12 @@
 
 ### Data Science
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
+
+### Design
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,figma,,&perline=4)](https://skillicons.dev)
+
+### IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&perline=4)](https://skillicons.dev)
 
 ### Version controls
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,&perline=4)](https://skillicons.dev)
