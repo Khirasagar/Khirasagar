@@ -92,9 +92,10 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&perline=4)](https://skillicons.dev)
 
 ### Version controls
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab&perline=4)](https://skillicons.dev)
 
-
+### Deployment
+[![My Skills](https://skillicons.dev/icons?i=netlify,heroku,firebase&perline=3)](https://skillicons.dev)
 
 <br>
 
