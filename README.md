@@ -86,7 +86,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
 
 ### Design
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,figma,,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,figma&perline=4)](https://skillicons.dev)
 
 ### IDEs
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&perline=4)](https://skillicons.dev)
