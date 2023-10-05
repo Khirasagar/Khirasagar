@@ -136,7 +136,13 @@
 
 
 <br>
-  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Khirasagar&show_icons=true&theme=dark&locale=en" alt="Khirasagar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khirasagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Khirasagar" /></td>
+  </tr>
+</table>
+  <br>
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
