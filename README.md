@@ -114,6 +114,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+
 <br/>
 <br/>
 <table>
@@ -135,7 +136,10 @@
 
 
 <br>
-
+  
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
 
 <p align="center">
   <a href="mailto:khirasagar.maharana8100@gmail.com">
