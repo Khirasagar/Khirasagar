@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/w13o6/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiMyREY3RkYiLCJiZ2MiOiIjRkZGRkZGIiwidCI6MX0/SGV5ICEgSSBhbSBLaGlyYXNhZ2Fy/brotherside-signature.png" alt="Khirasagar's Signature" />
+<!--   <img src="https://see.fontimg.com/api/renderfont4/w13o6/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiMyREY3RkYiLCJiZ2MiOiIjRkZGRkZGIiwidCI6MX0/SGV5ICEgSSBhbSBLaGlyYXNhZ2Fy/brotherside-signature.png" alt="Khirasagar's Signature" /> -->
+    
+  <img src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg" alt="Khirasagar's Signature" />
 </div>
 
 ## 👋 Get to Know Me! 😀
