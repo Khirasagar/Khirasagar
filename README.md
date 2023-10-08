@@ -13,7 +13,7 @@
 - 💳 My full name is **Khirasagar Maharana** <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
 - 🎯 I'm a versatile **Fullstack Developer** adept at both **frontend** and **backend** work, ensuring seamless and feature-rich web application development.
 - 🏫 I'm currently a professional career aspirant.
-- 🖋️ I'm a Bachelor of Technology Undergrad from **GIET University, Gunupur**.
+- 🖋️ I'm a Bachelor of Technology Undergrad from **GIET University**.
 - 📚 My major is **Computer Science and Engineering**.
 - 🌍 I'm currently based in **Odisha, India**.
 - 🧐 I'm fascinated by coding 💻, memes 😆 webseries 🎥.
