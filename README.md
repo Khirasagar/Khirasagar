@@ -8,7 +8,7 @@
   <img src="/wallpaperflare-cropped (1).jpg " alt="Khirasagar's Signature" />
 </div>
 
-## 👋 Get to Know Me! 😀
+## 👋 Get to Know Me!  😀
 
 - 💳 My full name is **Khirasagar Maharana** . <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
 - 🎯 I'm a versatile **Fullstack Developer** adept at both **frontend** and **backend** work, ensuring seamless and feature-rich web application development.
