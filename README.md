@@ -83,8 +83,8 @@
 #### Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui,jquery&perline=5)](https://skillicons.dev)
 
-### API
-
+### APIs
+[![My Skills](https://skillicons.dev/icons?i=postman,thunderclient&perline=5)](https://skillicons.dev)
 
 ### AI / ML
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
@@ -102,7 +102,6 @@
 [![My Skills](https://skillicons.dev/icons?i=netlify,heroku&perline=3)](https://skillicons.dev)
 
 <br>
-
 
 ## 📈 My GitHub Stats
 
