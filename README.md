@@ -79,7 +79,7 @@
 ### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
 
-#### Frameworks and Libraries
+#### Frontend Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui,jquery&perline=5)](https://skillicons.dev)
 
 ### APIs
