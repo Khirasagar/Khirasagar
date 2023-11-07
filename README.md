@@ -171,6 +171,20 @@
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/color/344/twitter--v1.png" height=48px/></a>
 </p>
+
+<div align="center">
+  <a 
+  target="_blank" 
+  title="open repo → 'readme typing svg'"
+  href="https://github.com/khirasagar/readme-typing-svg#readme">
+    <img
+    width="50%"
+    alt="readme-typing"
+    src="https://readme-typing-svg.herokuapp.com?duration=5500&color=0Cf474&background=FFFFFF00&hCenter=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Enjoy+your+day+~"
+    />
+  </a>
+</div>
+
 <div align="center">
   :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Khirasagar Maharana
