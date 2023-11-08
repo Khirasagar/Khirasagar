@@ -80,7 +80,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
 
 #### Frontend Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui,jquery&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui,jquery,vite&perline=6)](https://skillicons.dev)
 
 ### APIs
 [![My Skills](https://skillicons.dev/icons?i=postman,thunderclient&perline=5)](https://skillicons.dev)
