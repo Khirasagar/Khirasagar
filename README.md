@@ -9,7 +9,6 @@
 
 ## 👋 Get to Know Me!  😀
 
-
 - 💳 My name is **Khirasagar Maharana** . <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
 - 🎯 I'm a versatile **Fullstack Developer** adept at both **frontend** and **backend** work, ensuring seamless and feature-rich web application development.
 - 🖋️ I'm a Bachelor of Technology Undergrad.
