@@ -78,6 +78,9 @@
 ### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
 
+### Java Backend Development
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,atg&perline=4)](https://skillicons.dev)
+
 #### Frontend Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,materialui,jquery,vite&perline=6)](https://skillicons.dev)
 
