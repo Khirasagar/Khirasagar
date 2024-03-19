@@ -123,19 +123,28 @@
 <table>
   <tr>
     <td>
-      <p align="right">
+<!--       <p align="right">
         <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khirasagar" alt="Khirasagar's GitHub Streak" />
-      </p>
+      </p> -->
+<!-- // ////////////////////////////////////////////////////////////.....//// -->
+       <p>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khirasagar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Khirasagar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
     </td>
     <td>
       <p align="left">
         <img height="100%" src="https://github-readme-stats.vercel.app/api?username=Khirasagar&show_icons=true&locale=en" alt="Khirasagar's GitHub Stats" />
       </p>
     </td>
+    <td>
+      <p>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khirasagar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Khirasagar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+    </td>
   </tr>
 </table>
 
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&langs_count=8" alt="Khirasagar"/></p>
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&langs_count=8" alt="Khirasagar"/></p>
 
 
 <br>
