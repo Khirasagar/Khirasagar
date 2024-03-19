@@ -31,7 +31,7 @@
 
 ## 🚀 In-Use Tech Stacks:
 
-<p align="center"> 
+<p align="center" > 
     <a href="https://www.java.com" target="_blank"> 
       <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="58px" />
     </a>
