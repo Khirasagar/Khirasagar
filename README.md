@@ -160,10 +160,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 
-<p align="center">
-  <a href="mailto:khirasagar.maharana8100@gmail.com">
-    <img align="center" alt="Khirasagar Maharana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
   
 <p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Khirasagar"></p>
 
