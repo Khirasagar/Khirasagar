@@ -164,11 +164,7 @@
   <a href="mailto:khirasagar.maharana8100@gmail.com">
     <img align="center" alt="Khirasagar Maharana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/">
-    <img align="center" alt="Khirasagar Maharana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-</p>
+  
 <p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Khirasagar"></p>
 
 ## 🙋‍♂️ Connect with Me
