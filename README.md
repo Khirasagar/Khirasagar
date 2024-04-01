@@ -7,24 +7,30 @@
   <img src="/wallpaperflare-cropped (1).jpg " alt="Khirasagar's Signature" />
 </div>
 
-## 👋 Get to Know Me!  😀
+
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ｉ＇Ｍ　Ｋｈｉｒａｓａｇａｒ! 
+*Digital Craftsman (Developer / Programmer / Software Development Engineer)*
+<br /> 
+
+
 
 - 💳 My name is **Khirasagar** . <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
-- 🎯 I'm a versatile **Fullstack Developer** adept at both **frontend** and **backend** work, ensuring seamless and feature-rich web application development.
+- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and a love for **sports and games**.
 - 🖋️ I'm a Bachelor of Technology Undergrad.
 - 📚 My major is **Computer Science and Engineering**.
 - 🌍 I'm currently based in **Odisha, India**.
+-  ❤ Contributing to **Open Source**.
+- 🤝 I’m looking to collaborate on: **Fullstack projects**
+- 📚 I’m currently learning: **Java, JSP, Servlets, Springboot and MySQL**.
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" height="45px"> 
 
-
-<hr>
-<hr>
-<hr>
 <hr>
 
-<h2 align="right" border="0" dir="auto">📫 How can you reach me?</h2>
+<h4 align="center" border="0" dir="auto">📫 How can you reach me?</h4>
 
-<p align="right">
+<p align="center">
 <a href="https://codepen.io/Khirasagar" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="Khirasagar" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/" height="30" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220100990-cc4ee47d-acb8-4528-ad67-c8cc1eedca68.png" alt="Khirasagar" height="30" width="30" /></a>
