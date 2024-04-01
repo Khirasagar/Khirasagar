@@ -225,9 +225,11 @@
 
 <hr>
 <div align="center">
-  
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)]()
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## 📈 My GitHub Stats
