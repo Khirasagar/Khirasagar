@@ -159,15 +159,18 @@
   </tr>
 </table>
   <br>
+  <h2 align="center">📈 My Contribution graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khirasagar&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
   
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 
-  
-<p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Khirasagar"></p>
+<br>
 
-## 🙋‍♂️ Connect with Me
+## 🙋‍♂️ Socials
 
 <p align="left">
 
@@ -199,6 +202,5 @@
 
 Credits: [Khirasagar Maharana](https://github.com/Khirasagar)
 
-Last Edited on: 17/09/2023
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
