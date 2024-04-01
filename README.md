@@ -94,7 +94,7 @@
     </td>
     <td align="center">
       <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" height="58px"/>
+        <img src="https://cdn.shopify.com/app-store/listing_images/102fe433862e6cfd00ea9d4d950795d0/icon/CJGTnK6coYEDEAE=.jpeg" alt="XML" height="58px"/>
       </a>
     </td>
     <td align="center">
