@@ -282,7 +282,7 @@
 
 
 <br>
-<table>
+<table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Khirasagar&show_icons=true&theme=dark&locale=en" alt="Khirasagar" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khirasagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Khirasagar" /></td>
