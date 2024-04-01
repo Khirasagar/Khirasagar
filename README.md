@@ -7,7 +7,7 @@
   <img src="/wallpaperflare-cropped (1).jpg " alt="Khirasagar's Signature" />
 </div>
 
-
+<hr>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ｉ＇Ｍ　Ｋｈｉｒａｓａｇａｒ! 
@@ -24,12 +24,9 @@
 -  ❤ Contributing to **Open Source**.
 - 🤝 I’m looking to collaborate on: **Fullstack projects**
 - 📚 I’m currently learning: **Java, JSP, Servlets, Springboot and MySQL**.
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" height="45px"> 
-
-<hr>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" height="45px">
 
 <h4 align="center" border="0" dir="auto">📫 How can you reach me?</h4>
-
 <p align="center">
 <a href="https://codepen.io/Khirasagar" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="Khirasagar" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/" height="30" width="30" /></a>
@@ -38,6 +35,8 @@
 <a href="" target="_blank"><img align="center" src="https://seekicon.com/free-icon-download/code-sandbox-circle_1.svg" alt="Khirasagar" height="30" width="30" /></a>
 <a href="khirasagar.maharana8100@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Khirasagar" height="30" width="30" /></a>
 </p>
+
+<hr>
 
 ## 🚀 In-Use Tech Stacks: JAVA FULLSTACK and J2EE
 
@@ -100,12 +99,12 @@
     </td>
     <td align="center">
       <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="JavaScript" height="58px"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256" alt="TypeScript" height="58px"/>
       </a>
     </td>
     <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="postgresql-original-wordmark.svg" alt="PostgreSQL" height="58px"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="BootStrap" height="58px"/>
       </a>
     </td>
   </tr>
