@@ -39,7 +39,7 @@
 <a href="khirasagar.maharana8100@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Khirasagar" height="30" width="30" /></a>
 </p>
 
-## 🚀 In-Use Tech Stacks:
+## 🚀 In-Use Tech Stacks: JAVA FULLSTACK and J2EE
 
 <table align="center">
   <tr>
@@ -82,7 +82,7 @@
   </td>
   <td align="center">
     <a href="" target="_blank">
-        <img src="" alt="Apache Maven" height="58px"/>
+        <img src="file-type-maven.svg" alt="Apache Maven" height="58px"/>
       </a>
   </td>
 </tr>
@@ -104,37 +104,26 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" height="58px"/>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="postgresql-original-wordmark.svg" alt="PostgreSQL" height="58px"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express" height="58px"/>
-      </a>
     </td>
     <td align="center">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="58px"/>
-      </a>
     </td>
     <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
-      </a>
     </td>
     <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
-      </a>
     </td>
   </tr>
 </table>
 
+<hr>
 
-## 🚀Most recent Tech Stacks:
+## 🚀Most recent Tech Stacks: MERN-Stack
 
 <table align="center">
   <tr>
