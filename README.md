@@ -237,6 +237,12 @@
 
 <p ><img alt="Rahul Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p> -->
 
+<div align="center">
+  
+| ![Khirasagar github stats](https://github-readme-stats.vercel.app/api?username=Khirasagar\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Khirasagar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khirasagar&theme=tokyonight&hide_border=true&border_radius=8) |
+| -- | -- |
+
+</div>
   <br/>
     <a href="https://github.com/Khirasagar/github-readme-stats"><img alt="Khirasagar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khirasagar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Khirasagar/github-readme-stats"><img alt="Khirasagar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khirasagar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
