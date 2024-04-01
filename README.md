@@ -89,7 +89,7 @@
   <tr>
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="HTML" height="58px"/>
+        <img src="pngegg.png" alt="Graddle" height="58px"/>
       </a>
     </td>
     <td align="center">
