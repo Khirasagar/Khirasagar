@@ -41,38 +41,159 @@
 
 ## 🚀 In-Use Tech Stacks:
 
-<p align="center" > 
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="58px" />
-    </a>
-    <a href="https://www.python.org" target="_blank"> 
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python"  height="58px" />
-    </a>
-     <a href="" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C"  height="58px" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="HTML"  height="58px" />
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS"  height="58px"/>
-    </a> 
-    <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> 
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="JavaScript"  height="58px"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-      <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB"  height="58px" />
-    </a>
-   <a href="" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"  height="58px"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React"  height="58px"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
-    </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://server2client.com/images/jsplogo.webp" alt="JSP" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://server2client.com/images/servletslogo.webp" alt="Servlets" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="https://server2client.com/images/tomcatlogo.webp" alt="Apache Tomcat" height="58px"/>
+      </a>
+    </td>
+  </tr>
+<tr>
+  <td align="center">
+    <a href="" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" alt="MySQL" height="58px"/>
+      </a>
+  </td>
+  <td align="center">
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" height="58px"/>
+      </a>
+  </td>
+  <td align="center">
+    <a href="" target="_blank">
+        <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" height="58px"/>
+      </a>
+  </td>
+  <td align="center">
+    <a href="" target="_blank">
+        <img src="" alt="Apache Maven" height="58px"/>
+      </a>
+  </td>
+</tr>
+  
+  <tr>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="HTML" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="JavaScript" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" height="58px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## 🚀Most recent Tech Stacks:
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="HTML" height="58px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="JavaScript" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" height="58px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
