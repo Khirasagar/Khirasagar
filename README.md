@@ -17,7 +17,7 @@
 
 
 - 💳 My name is **Khirasagar** . <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
-- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and a love for **sports and games**.
+- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and enthusiastic for **sports and games**.
 - 🖋️ I'm a Bachelor of Technology Undergrad.
 - 📚 My major is **Computer Science and Engineering**.
 - 🌍 I'm currently based in **Odisha, India**.
