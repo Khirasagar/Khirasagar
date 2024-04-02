@@ -187,7 +187,7 @@
 </table>
 
 <br>
-
+<hr>
 
 ## Development Stack
 ### Programming Languages
@@ -233,6 +233,8 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake.svg" />
   </picture>
 </div>
+
+<hr>
 
 ## 📈 My GitHub Stats
 
@@ -292,6 +294,10 @@
   </tr>
 </table>
   <br>
+  
+<hr>
+
+  
   <h2 align="center">📈 My Contribution graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khirasagar&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
