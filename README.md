@@ -10,7 +10,7 @@
 <hr>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there ! Get to Know Me ...
 *Digital Craftsman (Developer / Programmer / Software Development Engineer)*
 <br /> 
 
