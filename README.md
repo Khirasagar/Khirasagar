@@ -183,9 +183,21 @@
     </td>
     <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="58px"/>
+        <img src="https://banner2.cleanpng.com/20180806/puu/kisspng-node-js-scalable-vector-graphics-javascript-clip-a-31-best-node-js-logo-5b67dacf9f8bc7.0306409615335328796535.jpg" alt="Node.js" height="58px"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.ideematic.com/wp-content/uploads/2018/02/extjs_logo-300x259.png" alt="Ext.js" height="58px"/>
+      </a>
+    </td>
+     <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.imaginarycloud.com/blog/content/images/size/w754/2022/11/What-s-new-in-Next.js-13---features--improvements--and-more.webp" alt="Next.js" height="58px"/>
+      </a>
+    </td>
+
+    
   </tr>
 </table>
 
