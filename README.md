@@ -44,6 +44,56 @@
 ## 🚀 In-Use Tech Stacks: JAVA FULLSTACK and J2EE
 
 <table align="center">
+
+  <tr>
+     <td align="center">
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" height="58px"/>
+      </a>
+  </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://eclipse.dev/eclipselink/images/logos/eclipselink-logo.png" alt="EclipseLink" height="58px"/>
+      </a>
+    </td>    
+    <td align="center">
+       <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.vincenzoracca.com/images/framework/jpa/jpa3.jpg" alt="JPA" height="58px"/>
+      </a>
+    </td>
+    
+  </tr>
+
+  <tr>
+  <td align="center">
+    <a href="" target="_blank">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" alt="MySQL" height="58px"/>
+      </a>
+  </td>
+   <td align="center">
+    <a href="" target="_blank">
+        <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" height="58px"/>
+      </a>
+  </td>
+
+ <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" height="58px"/>
+      </a>
+    </td>
+  <td align="center">
+    <a href="" target="_blank">
+        <img src="file-type-maven.svg" alt="Apache Maven" height="58px"/>
+      </a>
+  </td>
+</tr>
+
+  
   <tr>
     <td align="center">
       <a href="https://www.java.com" target="_blank">
@@ -66,28 +116,6 @@
       </a>
     </td>
   </tr>
-<tr>
-  <td align="center">
-    <a href="" target="_blank">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" alt="MySQL" height="58px"/>
-      </a>
-  </td>
-  <td align="center">
-    <a href="" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" height="58px"/>
-      </a>
-  </td>
-  <td align="center">
-    <a href="" target="_blank">
-        <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" height="58px"/>
-      </a>
-  </td>
-  <td align="center">
-    <a href="" target="_blank">
-        <img src="file-type-maven.svg" alt="Apache Maven" height="58px"/>
-      </a>
-  </td>
-</tr>
   
   <tr>
     <td align="center">
@@ -110,29 +138,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="BootStrap" height="58px"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" height="58px"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" height="58px"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="" target="_blank" rel="noreferrer">
-        <img src="https://eclipse.dev/eclipselink/images/logos/eclipselink-logo.png" alt="EclipseLink" height="58px"/>
-      </a>
-    </td>    
-    <td align="center">
-       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://www.vincenzoracca.com/images/framework/jpa/jpa3.jpg" alt="JPA" height="58px"/>
-      </a>
-    </td>
-    
   </tr>
 </table>
 
