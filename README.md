@@ -71,7 +71,7 @@
 <tr>
 <td>
 <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="Jakarta EE" height="58px"/>
+        <img src="Jakarta_ee_logo_schooner_color_stacked_default.svg" alt="Jakarta EE" height="58px"/>
       </a>
     
 </td>
