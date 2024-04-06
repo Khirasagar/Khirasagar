@@ -66,8 +66,23 @@
         <img src="https://www.vincenzoracca.com/images/framework/jpa/jpa3.jpg" alt="JPA" height="58px"/>
       </a>
     </td>
+</tr>
+
+<tr>
+<td>
     
-  </tr>
+</td>
+<td>
+    
+</td>
+<td>
+    
+</td>
+<td>
+    
+</td>
+  
+</tr>
 
   <tr>
   <td align="center">
