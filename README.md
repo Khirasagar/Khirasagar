@@ -245,7 +245,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,&perline=4)](https://skillicons.dev)
 
 ### Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mongodb,express,react,nodejs,npm&perline=6)](https://skillicons.dev)
 
 ### Java Backend Development
 [![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,atg&perline=4)](https://skillicons.dev)
@@ -257,19 +257,23 @@
 [![My Skills](https://skillicons.dev/icons?i=postman,thunderclient&perline=5)](https://skillicons.dev)
 
 ### AI / ML
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda,terraform,sklearn,matlab&perline=8)](https://skillicons.dev)
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,figma&perline=4)](https://skillicons.dev)
 
 ### IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&perline=6)](https://skillicons.dev)
 
 ### Version controls
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab&perline=4)](https://skillicons.dev)
 
 ### Deployment
 [![My Skills](https://skillicons.dev/icons?i=netlify,heroku&perline=3)](https://skillicons.dev)
+
+### Operating System Compatibility
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple&perline=3)](https://skillicons.dev)
+
 
 <br>
 
