@@ -70,6 +70,9 @@
 
 <tr>
 <td>
+<a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="Jakarta EE" height="58px"/>
+      </a>
     
 </td>
 <td>
