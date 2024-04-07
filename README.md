@@ -69,19 +69,21 @@
 </tr>
 
 <tr>
-<td>
+<td align="center">
 <a href="" target="_blank" rel="noreferrer">
         <img src="Jakarta_ee_logo_schooner_color_stacked_default.svg" alt="Jakarta EE" height="58px"/>
       </a>
     
 </td>
-<td>
+<td align="center">
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*KXWmaJmQauJ1gRhSMS1J5w.png" alt="Spring Data JPA" height="58px"/>
+     </a>
+</td>
+<td align="center">
     
 </td>
-<td>
-    
-</td>
-<td>
+<td align="center">
     
 </td>
   
