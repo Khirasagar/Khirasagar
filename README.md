@@ -80,10 +80,16 @@
      </a>
 </td>
 <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="Spring Data JPA" height="58px"/>
+     </a>
     
 </td>
 <td align="center">
-    
+  <a href="" target="_blank" rel="noreferrer">
+        <img src="https://github.com/Khirasagar/Khirasagar/assets/80944257/80c61ae3-3d28-4413-81e9-137e1bfb971f" alt="Spring Data JPA" height="58px"/>
+     </a>
+
 </td>
   
 </tr>
