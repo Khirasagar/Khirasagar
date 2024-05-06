@@ -19,7 +19,7 @@
 - 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and enthusiastic for **sports and games**.
 - 🖋️ I'm a Bachelor of Technology Undergrad.
 - 📚 My major is **Computer Science and Engineering**.
-- 🌍 I'm currently based in **Odisha, India**.
+- 🌍 I'm currently based in **Bengaluru, India**.
 -  ❤ Contributing to **Open Source**.
 - 🤝 I’m looking to collaborate on: **Fullstack projects**
 - 📚 I’m currently learning: **Java 8, JSP, Servlets, Springboot and MySQL** .
