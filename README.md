@@ -7,7 +7,6 @@
   <img src="/wallpaperflare-cropped (1).jpg " alt="Khirasagar's Signature" />
 </div>
 
-
 <hr>
 
 <!--Header Name-->
