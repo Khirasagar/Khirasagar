@@ -9,7 +9,6 @@
 
 <hr>
 
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there ! Get to Know Me ...
 *Digital Craftsman (Developer / Programmer / Software Development Engineer)*
@@ -17,7 +16,7 @@
 
 
 - 💳 My name is **Khirasagar** . <img src="https://github.com/Khirasagar/Khirasagar/blob/main/21004063.jpg" width="280" height="280" align="right" autoplay/>
-- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and enthusiastic for **sports and games**.
+- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and **enthusiastiasm**.
 - 🖋️ I'm a Bachelor of Technology Undergrad.
 - 📚 My major is **Computer Science and Engineering**.
 - 🌍 I'm currently based in **Bengaluru, India**.
