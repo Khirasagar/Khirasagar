@@ -47,12 +47,12 @@
 <tr>
      <td align="center">
     <a href="" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" height="58px"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Security" height="58px"/>
       </a>
   </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" height="58px"/>
+        <img src="https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png" alt="JWT Token" height="58px"/>
       </a>
     </td>
     <td align="center">
