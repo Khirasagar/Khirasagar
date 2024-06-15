@@ -62,7 +62,7 @@
     </td>    
     <td align="center">
        <a href="" target="_blank" rel="noreferrer">
-        <img src="https://www.vincenzoracca.com/images/framework/jpa/jpa3.jpg" alt="JPA" height="58px"/>
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Jt34KK87zw10NOLYqU-CNQ.jpeg" alt="LOMBOK" height="58px"/>
       </a>
     </td>
 </tr>
