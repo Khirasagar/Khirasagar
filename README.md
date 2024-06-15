@@ -57,7 +57,7 @@
     </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://eclipse.dev/eclipselink/images/logos/eclipselink-logo.png" alt="EclipseLink" height="58px"/>
+        <img src="https://www.imaginarycloud.com/blog/content/images/2023/03/postman-logo.webp" alt="Postman API" height="58px"/>
       </a>
     </td>    
     <td align="center">
