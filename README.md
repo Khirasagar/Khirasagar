@@ -44,6 +44,30 @@
 
 <table align="center">
 
+<tr>
+     <td align="center">
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" height="58px"/>
+      </a>
+  </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://eclipse.dev/eclipselink/images/logos/eclipselink-logo.png" alt="EclipseLink" height="58px"/>
+      </a>
+    </td>    
+    <td align="center">
+       <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.vincenzoracca.com/images/framework/jpa/jpa3.jpg" alt="JPA" height="58px"/>
+      </a>
+    </td>
+</tr>
+
+
   <tr>
      <td align="center">
     <a href="" target="_blank">
