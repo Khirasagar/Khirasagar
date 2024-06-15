@@ -47,7 +47,7 @@
 <tr>
      <td align="center">
     <a href="" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Security" height="58px"/>
+        <img src="https://dz2cdn1.dzone.com/storage/temp/15154975-spring-security-logo-1.png" alt="Spring Security" height="58px"/>
       </a>
   </td>
     <td align="center">
