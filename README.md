@@ -7,7 +7,7 @@
   <img src="/wallpaperflare-cropped (1).jpg " alt="Khirasagar's Signature" />
 
   <img src="/wallpaperflare-cropped.jpg" alt="Khirasagar's Signature" />
-  
+
 </div>
 
 <hr>
