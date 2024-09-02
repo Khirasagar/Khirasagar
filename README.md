@@ -39,7 +39,7 @@
 <a href="" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220100990-cc4ee47d-acb8-4528-ad67-c8cc1eedca68.png" alt="Khirasagar" height="30" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220102737-cefd3288-19d3-4a84-8435-3dd5f74a0726.png" alt="Khirasagar" height="30" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://seekicon.com/free-icon-download/code-sandbox-circle_1.svg" alt="Khirasagar" height="30" width="30" /></a>
-<a href="khirasagar.maharana8100@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Khirasagar" height="30" width="30" /></a>
+<a href="khirasagar.maharana8100@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Khirasagar" height="30" width="40" /></a>
 </p>
 
 <hr>
