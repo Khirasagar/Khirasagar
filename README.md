@@ -35,7 +35,7 @@
 <h4 align="center" border="0" dir="auto">📫 How can you reach me?</h4>
 <p align="center">
 <a href="https://codepen.io/Khirasagar" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="Khirasagar" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/khirasagar-maharana-b4485a209/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/" height="30" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220100990-cc4ee47d-acb8-4528-ad67-c8cc1eedca68.png" alt="Khirasagar" height="30" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220102737-cefd3288-19d3-4a84-8435-3dd5f74a0726.png" alt="Khirasagar" height="30" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://seekicon.com/free-icon-download/code-sandbox-circle_1.svg" alt="Khirasagar" height="30" width="30" /></a>
