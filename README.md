@@ -55,7 +55,7 @@
   </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png" alt="JWT Token" height="58px"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQFVwyOFW6vcWQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1657367415533?e=1731542400&v=beta&t=aODmEdnLWBuxdXtF53w35qvruE6YJH60JIB_0KAIu2I" alt="AWS S3" height="58px"/>
       </a>
     </td>
     <td align="center">
