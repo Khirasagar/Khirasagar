@@ -61,7 +61,7 @@
     </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://www.imaginarycloud.com/blog/content/images/2023/03/postman-logo.webp" alt="Postman API" height="58px"/>
+        <img src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png" alt="Postman API" height="58px"/>
       </a>
     </td>    
     <td align="center">
