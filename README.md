@@ -60,7 +60,7 @@
     </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png" alt="Postman API" height="58px"/>
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*rwAyCH8oA4BmpJojOu8nXA.png" alt="AWS EC@" height="58px"/>
       </a>
     </td>    
     <td align="center">
