@@ -26,7 +26,7 @@
 <!--  - 🌍 I'm currently based in **Bengaluru, India**. -->
 -  ❤ Contributing to **Open Source**.
 - 🤝 I’m looking to collaborate on: **Fullstack projects**
-- 📚 I’m currently focused on : **Spring Security, JWT Token Authorization and Authentication, ER Diagrams, RESTful APIs Springboot, Hibernate and MySQL**.
+- 📚 I’m currently focused on : **,Deployment on AWS and its services like: S3, EC2, Elastic Beanstalk,Elastic Kubernetes Services, Spring Security, JWT Token Authorization and Authentication, ER Diagrams, RESTful APIs Springboot, Hibernate and MySQL**.
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" height="45px"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Fullstack+Developer;Java+J2EE+FullStack+Developer;MERN+Developer;Sports+Enthusiast:&color=teal&center=true" />
