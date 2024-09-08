@@ -60,12 +60,12 @@
     </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*rwAyCH8oA4BmpJojOu8nXA.png" alt="AWS EC@" height="58px"/>
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*rwAyCH8oA4BmpJojOu8nXA.png" alt="AWS EC2" height="58px"/>
       </a>
     </td>    
     <td align="center">
        <a href="" target="_blank" rel="noreferrer">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Jt34KK87zw10NOLYqU-CNQ.jpeg" alt="LOMBOK" height="58px"/>
+        <img src="https://d2908q01vomqb2.cloudfront.net/cb4e5208b4cd87268b208e49452ed6e89a68e0b8/2018/02/20/AWS-Elastic-Beanstalk-Logo.png" alt="Elastic beanstalk" height="58px"/>
       </a>
     </td>
 </tr>
