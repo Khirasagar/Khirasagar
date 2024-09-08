@@ -47,6 +47,28 @@
 ## 🚀 In-Use Tech Stacks: JAVA FULLSTACK and J2EE
 
 <table align="center">
+<tr>
+     <td align="center">
+    <a href="" target="_blank">
+        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="AWS" height="58px"/>
+      </a>
+  </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png" alt="JWT Token" height="58px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png" alt="Postman API" height="58px"/>
+      </a>
+    </td>    
+    <td align="center">
+       <a href="" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Jt34KK87zw10NOLYqU-CNQ.jpeg" alt="LOMBOK" height="58px"/>
+      </a>
+    </td>
+</tr>
 
 <tr>
      <td align="center">
