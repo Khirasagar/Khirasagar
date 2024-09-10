@@ -27,7 +27,7 @@
 -  ❤ Contributing to **Open Source**.
 -  🎈 I'm contributing to the **Build v5 project with Backdrop Build** , where I'm collaborating with a network of skilled developers and industry partners. This open-source project allows me to work on innovative ideas, using the latest resources and connections to make a real impact. It's a valuable opportunity to refine my skills, stay current with industry trends, and contribute meaningfully to the tech community.
 - 🤝 I’m looking to collaborate on: **Fullstack projects**
-- 📚 I’m currently focused on : **,Deployment of springboot applications on AWS and its services like: S3, EC2, Elastic Beanstalk,Elastic Kubernetes Services, Spring Security, JWT Token Authorization and Authentication, ER Diagrams, RESTful APIs Springboot, Hibernate and MySQL**.
+- 📚 I’m currently focused on : **Deployment of springboot applications on AWS and its services like: S3, EC2, Elastic Beanstalk,Elastic Kubernetes Services, Spring Security, JWT Token Authorization and Authentication, ER Diagrams, RESTful APIs Springboot, Hibernate and MySQL**.
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" height="45px"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Fullstack+Developer;Java+J2EE+FullStack+Developer;MERN+Developer;Sports+Enthusiast:&color=teal&center=true" />
