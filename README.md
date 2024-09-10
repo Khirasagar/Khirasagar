@@ -449,7 +449,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/khirasagar-maharana-b4485a209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:khirasagar.maharana8100@gmail.com"><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
 <a href = "https://www.facebook.com//"><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=48px/></a>
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
