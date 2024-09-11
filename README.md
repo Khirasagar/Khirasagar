@@ -26,7 +26,7 @@
 - 📚 My major is **Computer Science and Engineering**.
 <!--  - 🌍 I'm currently based in **Bengaluru, India**. -->
 -  ❤ Contributing to **Open Source**.
--  🎈 I'm contributing to the **Build v5 project with Backdrop Build** , where I'm collaborating with a network of skilled developers and industry partners. This open-source project allows me to work on innovative ideas, using the latest resources and connections to make a real impact. It's a valuable opportunity to refine my skills, stay current with industry trends, and contribute meaningfully to the tech community.
+-  🎈 I'm contributing to the **Build v5 project with Backdrop Build.** 
 - 🤝 I’m looking to collaborate on: **Fullstack projects**
 - 📚 I’m currently focused on : **Deployment of springboot applications on AWS and its services like: S3, EC2, Elastic Beanstalk,Elastic Kubernetes Services, Spring Security, JWT Token Authorization and Authentication, ER Diagrams, RESTful APIs Springboot, Hibernate and MySQL**.
 
