@@ -20,8 +20,8 @@
 <br /> 
 
 
-- 💳 My name is **Khirasagar** . <img src="https://avatars.githubusercontent.com/u/174110?v=4" width="280" height="280" align="right" autoplay/>
-- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and **enthusiastiasm**.
+- 💳 My name is **Khirasagar** . 
+- 🎯 I am a multifaceted **software developer** and **artist**, fueled by **creativity** and **enthusiastiasm**.<img src="https://avatars.githubusercontent.com/u/174110?v=4" width="280" height="280" align="right" autoplay/>
 - 🎓 I'm a Bachelor of Technology Undergrad.
 - 📚 My major is **Computer Science and Engineering**.
 <!--  - 🌍 I'm currently based in **Bengaluru, India**. -->
