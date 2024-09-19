@@ -284,7 +284,7 @@
     </td>
      <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://www.imaginarycloud.com/blog/content/images/size/w754/2022/11/What-s-new-in-Next.js-13---features--improvements--and-more.webp" alt="Next.js" height="58px"/>
+        <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="Next.js" height="58px"/>
       </a>
     </td>
 
