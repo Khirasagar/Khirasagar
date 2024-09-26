@@ -453,7 +453,7 @@
 <a href = "mailto:khirasagar.maharana8100@gmail.com"><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
 <a href = "https://www.facebook.com//"><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=48px/></a>
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/color/344/twitter--v1.png" height=48px/></a>
+<a href = "https://twitter.com/"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1727373089~exp=1727373689~hmac=31b86fd335e178745c44fd6caedde6438a6985e7304744b0a33965b859c5e7eb" height=48px/></a>
 </p>
 
 <div align="center">
