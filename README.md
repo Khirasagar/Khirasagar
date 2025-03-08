@@ -57,7 +57,7 @@
   </td>
     <td align="center">
       <a href="" target="_blank" rel="noreferrer">
-        <img src="https://media.licdn.com/dms/image/v2/D4D12AQFVwyOFW6vcWQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1657367415533?e=1731542400&v=beta&t=aODmEdnLWBuxdXtF53w35qvruE6YJH60JIB_0KAIu2](https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2021/01/30083957/aws-s3-logo.png" alt="AWS S3" height="58px"/>
+        <img src="https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2021/01/30083957/aws-s3-logo.png" alt="AWS S3" height="58px"/>
       </a>
     </td>
     <td align="center">
